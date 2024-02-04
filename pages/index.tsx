@@ -15,8 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
-        <Image width={500} height={500} src="/static/111.jpeg" alt="pic" />
-        моя телка самая крутая! но толстенькая!
+        моя телка лерка - самая крутая! но толстенькая!
       </main>
     </>
   );
